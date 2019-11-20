@@ -6,6 +6,8 @@ public class SampleCI {
         System.out.println("Happy");
         System.out.println("Welcome");
         System.out.println("Welcome");
+        System.out.println("Welcometo uni");
+        System.out.println("Welcometo uni");
     }
     
 }
